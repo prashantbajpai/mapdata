@@ -1,0 +1,10 @@
+city,lat,lon,link_lat,link_lon,spoke
+Singapore,1.34,139.76,13.5,104.86,Cambodia
+Singapore,1.34,139.76,20.01,103.37,Laos 
+Nairobi,-1.28,36.81,-28.81,24.99,South Africa 
+Nairobi,-1.28,36.81,-1.96,30.06,Rwanda
+Nairobi,-1.28,36.81,-6.52,35.78,Tanzania
+Delhi,28.65,77.22,24.47,90.29,Bangladesh 
+Delhi,28.65,77.22,7.55,80.71,Sri Lanka 
+Tunisia,33.84,9.4,26.25,29.26,Eygpt 
+Tunisia,33.84,9.4,23.42,53.84,UAE 
